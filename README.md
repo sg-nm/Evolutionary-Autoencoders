@@ -1,6 +1,6 @@
 # Exploiting the Potential of Standard Convolutional Autoencoders for Image Restoration by Evolutionary Search
 
-This repository contains the code for the following paper [(arXiv)](https://arxiv.org/abs/1803.00370):
+This repository contains the code for the following paper [[arXiv]](https://arxiv.org/abs/1803.00370):
 
 Masanori Suganuma, Mete Ozay, and Takayuki Okatani, "Exploiting the Potential of Standard Convolutional Autoencoders for Image Restoration by Evolutionary Search," arXiv:1803.00370, (2018)
 
