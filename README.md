@@ -4,6 +4,7 @@ This repository contains the code for the following paper [[arXiv]](https://arxi
 
 Masanori Suganuma, Mete Ozay, and Takayuki Okatani, "Exploiting the Potential of Standard Convolutional Autoencoders for Image Restoration by Evolutionary Search," arXiv:1803.00370, (2018)
 
+Inpainting:
 ![example](https://github.com/sg-nm/Evolutionary-Autoencoders/blob/master/Inpainitng/example/example.png "Sample inpainting results on the celebA dataset")
 
 
