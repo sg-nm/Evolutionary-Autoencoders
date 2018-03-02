@@ -12,7 +12,7 @@ Denoising:
 ![example_d](https://github.com/sg-nm/Evolutionary-Autoencoders/blob/master/Denoising/example/example.png "Sample denoising results on the BSD500 dataset")
 
 
-# Requirement
+## Requirement
 
 * Ubuntu 14.04 LTS
 * CUDA version 8.0
