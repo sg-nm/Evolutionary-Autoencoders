@@ -6,6 +6,7 @@ Masanori Suganuma, Mete Ozay, and Takayuki Okatani, "Exploiting the Potential of
 
 ![example](inpainting/example/example.png "Sample inpainting results on the celebA dataset")
 
+
 # Requirement
 
 * Ubuntu 14.04 LTS
