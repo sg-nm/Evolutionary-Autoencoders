@@ -76,7 +76,7 @@ python create_data.py
 
 The BSDS500 dataset is available [here](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/).
 
-The cars dataset is available [here](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/).
+The cars dataset is available [here](http://ai.stanford.edu/~jkrause/cars/car_dataset.html).
 
 The SVHN dataset is available [here](http://ufldl.stanford.edu/housenumbers/).
 
