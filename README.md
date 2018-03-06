@@ -4,6 +4,14 @@ This repository contains the code for the following paper [arXiv](https://arxiv.
 
 Masanori Suganuma, Mete Ozay, and Takayuki Okatani, "Exploiting the Potential of Standard Convolutional Autoencoders for Image Restoration by Evolutionary Search," arXiv:1803.00370, (2018)
 
+Sample results on inpainting tasks: 
+
+![example](Inpainting/example/example.png "Sample inpainting results")
+
+Sample results on denoising tasks: 
+
+![example](Denoising/example/example.png "Sample denoising results")
+
 ---
 # Requirement
 
