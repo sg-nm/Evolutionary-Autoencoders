@@ -75,7 +75,8 @@ python exp_main.py -m reevolution
 ```
 
 
-### Dataset
+
+## Dataset
 
 To create the training, validation, and test sets of the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html):
 
