@@ -85,7 +85,7 @@ The SVHN dataset is available [here](http://ufldl.stanford.edu/housenumbers/).
 The BSDS500 dataset is available [here](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/).
 
 To create the training, validation, and test sets of the CelebA dataset, please download "Align&Cropped Images" and save images to `./celebA_org`, and download "list_landmarks_landmarks_align_celeba.txt" from [here.](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) 
-Then please run following code:
+Then please run a following code:
 
 ```shell
 python create_data.py
