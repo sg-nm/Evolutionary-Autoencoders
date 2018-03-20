@@ -163,7 +163,7 @@ class CNN_train():
             print('epoch_num:', epoch_num)
             print('mast type:', mask_type)
 
-        gpuID = 1
+        
         torch.backends.cudnn.benchmark = True
         model = CGP2CNN_autoencoder(cgp, self.channel, self.imgSize)
         model.cuda(gpuID)
