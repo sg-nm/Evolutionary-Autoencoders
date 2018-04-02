@@ -18,7 +18,7 @@ Sample results on denoising tasks:
 * Ubuntu 14.04 LTS
 * CUDA version 8.0
 * Python version 3.6.2
-* PyTortch version 0.2.0_4
+* PyTorch version 0.2.0_4
 
 
 ## Usage
