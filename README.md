@@ -6,12 +6,12 @@ Masanori Suganuma, Mete Ozay, and Takayuki Okatani, "Exploiting the Potential of
 
 If you find this work useful in your research, please cite:
 
-@inproceedings{suganumaICML2018,
-  Author = {M. Suganuma and M. Ozay and T. Okatani},
-  Title = {Exploiting the Potential of Standard Convolutional Autoencoders for Image Restoration by Evolutionary Search},
-  Booktitle = {ICML},
-  Year = {2018}
-}
+    @inproceedings{suganumaICML2018,
+        Author = {M. Suganuma and M. Ozay and T. Okatani},
+        Title = {Exploiting the Potential of Standard Convolutional Autoencoders for Image Restoration by Evolutionary Search},
+        Booktitle = {ICML},
+        Year = {2018}
+    }
 
 
 Sample results on inpainting tasks: 
