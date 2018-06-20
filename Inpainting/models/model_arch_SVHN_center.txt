@@ -1,0 +1,7 @@
+cgp = [['input', 0], ['S_Sum_ConvBlock_128_5', 0], ['D_ConvBlock_128_5', 1], ['S_Sum_ConvBlock_64_5', 2], ['D_ConvBlock_64_5', 3], ['S_Sum_ConvBlock_128_3', 4], ['S_Sum_ConvBlock_128_3', 5], ['D_ConvBlock_64_3', 6], ['S_DeConvBlock_3_1', 7]]
+
+# how to load the pre-trained model
+model = CGP2CNN_autoencoder(cgp, self.channel, self.n_class, self.imgSize)
+model.cuda(gpuID)
+param = torch.load('./models/model_SVHN_center.pth')
+model.load_state_dict(param)
